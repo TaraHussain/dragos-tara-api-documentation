@@ -60,7 +60,9 @@ Table 3 - Addresses:
 
 GET Requests
 
-- **/owners/** will return a JSON object containing owner name and age.
+- **/owners/** will return a JSON object containing owner name and age for example
+
+`[{Owner: "John Smith", Age: 45}, {Owner: "Amy Brown", Age: 36}, {Owner: "Jenny Green", Age: 28}, {Owner: "Tom Hanks", Age: 54}]`
 
 - **/owners/address** will return a JSON object containing the full address of each owner.
 
