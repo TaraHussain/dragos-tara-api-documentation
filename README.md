@@ -10,30 +10,30 @@ Our data will be structured with a predefined schema, therefore we will use an S
 
 Table 1 - Owners:
 
-| Owner Name  | Age |
-| ----------- | --- |
-| John Smith  | 45  |
-| Amy Brown   | 36  |
-| Jenny Green | 28  |
-| Tom Hanks   | 54  |
+| ID  | Owner Name  | Age |
+| --- | ----------- | --- |
+| 001 | John Smith  | 45  |
+| 002 | Amy Brown   | 36  |
+| 003 | Jenny Green | 28  |
+| 004 | Tom Hanks   | 54  |
 
 Table 2 - Houses:
 
-| Name        | Street Address      | No. of people in household |
-| ----------- | ------------------- | -------------------------- |
-| John Smith  | 48 Barnaby Street   | 4                          |
-| Amy Brown   | 12 Exeter Road      | 2                          |
-| Jenny Green | 23 Castlehill Way   | 1                          |
-| Tom Hanks   | 8 Coronation Street | 6                          |
+| ID  | Name        | Street Address      | No. of people in household |
+| --- | ----------- | ------------------- | -------------------------- |
+| 001 | John Smith  | 48 Barnaby Street   | 4                          |
+| 002 | Amy Brown   | 12 Exeter Road      | 2                          |
+| 003 | Jenny Green | 23 Castlehill Way   | 1                          |
+| 004 | Tom Hanks   | 8 Coronation Street | 6                          |
 
 Table 3 - Addresses:
 
-| Street Address      | Postcode |
-| ------------------- | -------- |
-| 48 Barnaby Street   | NW1 7PO  |
-| 12 Exeter Road      | NW1 6DT  |
-| 23 Castlehill Way   | NW2 3FT  |
-| 8 Coronation Street | NW1 5PR  |
+| ID  | Street Address      | Postcode |
+| --- | ------------------- | -------- |
+| 001 | 48 Barnaby Street   | NW1 7PO  |
+| 002 | 12 Exeter Road      | NW1 6DT  |
+| 003 | 23 Castlehill Way   | NW2 3FT  |
+| 004 | 8 Coronation Street | NW1 5PR  |
 
 ## API Requests
 
