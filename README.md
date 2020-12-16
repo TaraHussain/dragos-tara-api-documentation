@@ -1,10 +1,10 @@
 # Neighbourhood Collaboration Site
 
-### We are building a neighbourhood collaboration site and we want to make a system to keep track of people, houses, and addresses of those houses.
+We are building a neighbourhood collaboration site and we want to make a system to keep track of people, houses, and addresses of those houses.
 
 ## SQL vs NoSQL
 
-### Our data will be structured with a predefined schema, therefore we will use an SQL database. SQL databases are relational which will allows us to identify and access data in relation to another piece of data in the database.
+Our data will be structured with a predefined schema, therefore we will use an SQL database. SQL databases are relational which will allows us to identify and access data in relation to another piece of data in the database.
 
 ## Schema
 
